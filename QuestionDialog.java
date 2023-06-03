@@ -1,4 +1,4 @@
-package ATM;
+package mybank;
 import java.awt.event.*;
 import javax.swing.*;
 
