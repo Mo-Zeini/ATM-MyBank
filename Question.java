@@ -16,7 +16,7 @@ public abstract class Question {
 	// Database connection details
 	static String url = "jdbc:mysql://localhost:3306/bankaccounts"; // Database URL
 	static String username = "root"; // MySQL username
-	static String password = "Keinzweifel7"; // MySQL password
+	static String password = "password"; // MySQL password
 	
 	// Question Constructor.
 	Question(String question) {
