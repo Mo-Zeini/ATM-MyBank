@@ -1,10 +1,5 @@
 package mybank;
 
-import java.awt.Font;
-
-import javax.swing.JLabel;
-import javax.swing.JOptionPane;
-
 /*
  * This application is an ATM for a bank that allows users to deposit and Withdrawal money
  * using Swing GUI Java.
@@ -17,11 +12,6 @@ public class MyBank {
 
 		// Call the access method in order to check whether the inserted pin is correct.
 		Question.access();
-
-		// continue if the pin was correct.
-		JLabel label = new JLabel("Correct pin. Welcome!."); // Welcoming message.
-		label.setFont(new Font("Lucida Calligraphy", Font.BOLD, 18)); // change the font and its size.
-		JOptionPane.showMessageDialog(null,label); // Show the message.
 
 		dashboard(); // Call the dashboard() method to call the constructors.
 	} // end of main()
