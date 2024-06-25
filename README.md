@@ -60,7 +60,7 @@ Follow the prompts to perform the desired action.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mo-Zeini/ATM-MyBank/blob/main/LICENSE.txt) file for details.
 
 ## Author
 
